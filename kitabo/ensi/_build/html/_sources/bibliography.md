@@ -1,5 +1,5 @@
 (religion)=
-# Outcomes, *γ* 😃 ⭕️
+# Outcomes 
 
 ```{bibliography}
 ```
