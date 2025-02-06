@@ -7,7 +7,7 @@
 title                       : Ecosystem Integration # The title of the book. Will be placed in the left navbar.
 author                      :  # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
-logo                        : https://www.geo.fr/imgre/fit/https.3A.2F.2Fprd2-geo-upload-media.2Es3.2Eeu-west-1.2Eamazonaws.2Ecom.2F1570a4ac9b10ba.2Ejpg/1952x1098/background-color/ffffff/quality/70/focus-point//picture.jpg # Path to the logo image file
+logo                        : https://images.squarespace-cdn.com/content/v1/5a6d50d8017db24a060f8977/1518500481830-TW3S3GNRVGZXU913NW2X/ConsilienceLogo.png?format=750w # Path to the logo image file
 email                       : "abikesa.sh@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
